@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Wed Apr 24 17:33:45 EDT 2019
-1.base=C\:\\Users\\Jovon\\AndroidStudioProjects\\failedHopper\\HOPPER\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+#Wed Apr 24 18:12:22 EDT 2019
+1.base=C\:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=C\:\\Users\\Jovon\\AndroidStudioProjects\\failedHopper\\HOPPER\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.base=C\:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 1.path=classes.dex
