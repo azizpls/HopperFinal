@@ -823,7 +823,6 @@ id tvLoginWithFacebook
 id tvProfileTitle
 id tvRegisterMover
 id tvSignout
-id tvSignupWithFacebook
 id uniform
 id up
 id useLogo

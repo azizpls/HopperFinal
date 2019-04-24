@@ -3581,13 +3581,12 @@ public final class R {
     public static final int tvProfileTitle=0x7f0900a1;
     public static final int tvRegisterMover=0x7f0900a2;
     public static final int tvSignout=0x7f0900a3;
-    public static final int tvSignupWithFacebook=0x7f0900a4;
-    public static final int uniform=0x7f0900a5;
-    public static final int up=0x7f0900a6;
-    public static final int useLogo=0x7f0900a7;
-    public static final int withText=0x7f0900a8;
-    public static final int wrap=0x7f0900a9;
-    public static final int wrap_content=0x7f0900aa;
+    public static final int uniform=0x7f0900a4;
+    public static final int up=0x7f0900a5;
+    public static final int useLogo=0x7f0900a6;
+    public static final int withText=0x7f0900a7;
+    public static final int wrap=0x7f0900a8;
+    public static final int wrap_content=0x7f0900a9;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;
