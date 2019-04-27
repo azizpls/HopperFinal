@@ -26,13 +26,12 @@ public class RegisterActivity extends AppCompatActivity {
     private EditText etFirstName;
     private EditText etLastName;
     private ImageView ivSignup;
-    private TextView tvExistLogin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getWindow().requestFeature(Window.FEATURE_NO_TITLE);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN); //Removes top status bar
+        //getWindow().requestFeature(Window.FEATURE_NO_TITLE);
+        //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN); //Removes top status bar
 
         setContentView(R.layout.activity_register);
 
@@ -48,8 +47,9 @@ public class RegisterActivity extends AppCompatActivity {
                 String lastname = etLastName.getText().toString();
                 String emailAddress = etEmailAddress.getText().toString();
                 String password = etPassword.getText().toString();
+                String username = etEmailAddress.getText().toString();
 
-                register(firstname, lastname,emailAddress, password);
+                register(username,emailAddress, password, firstname, lastname);
 
             }
         });
@@ -62,14 +62,18 @@ public class RegisterActivity extends AppCompatActivity {
 
     }
 
-    private void register(String firstname, String lastname, String emailAddress, String password) {
+    private void register(String username, String emailAddress, String password, String firstname, String lastname) {
         // Create the ParseUser
         ParseUser user = new ParseUser();
         // Set core properties
-        user.set
-        user.setUsername();
+        user.setUsername(username);
         user.setPassword(password);
         user.setEmail(emailAddress);
+
+
+        user.put("firstName", firstname);
+        user.put("lastName", lastname);
+
 
         // Invoke signUpInBackground
         user.signUpInBackground(new SignUpCallback() {
@@ -99,7 +103,7 @@ public class RegisterActivity extends AppCompatActivity {
         finish();
     }
 
-    }
+
 
 
 }
