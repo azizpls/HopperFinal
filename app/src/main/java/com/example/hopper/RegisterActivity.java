@@ -26,6 +26,7 @@ public class RegisterActivity extends AppCompatActivity {
     private EditText etFirstName;
     private EditText etLastName;
     private ImageView ivSignup;
+    private TextView tvLoginMover;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +41,15 @@ public class RegisterActivity extends AppCompatActivity {
         etEmailAddress = findViewById(R.id.etEmailAddress);
         etPassword = findViewById(R.id.etPassword);
         ivSignup = findViewById(R.id.ivSignUp);
+        tvLoginMover = findViewById(R.id.tvLoginMover);
+
+        tvLoginMover.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                goLoginActivity();
+            }
+        });
+
         ivSignup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -59,6 +69,15 @@ public class RegisterActivity extends AppCompatActivity {
 
 
 
+
+    }
+
+    private void goLoginActivity() {
+        Log.d(TAG,  "Navigating to Login Activity");
+
+        Intent i = new Intent(this, LoginActivity.class);
+        startActivity(i);
+        finish();
 
     }
 

@@ -737,7 +737,6 @@ id info
 id invisible
 id italic
 id ivAlreadyHave
-id ivFacebookIcon
 id ivLogin
 id ivLogo
 id ivOrLines
@@ -819,7 +818,6 @@ id tvDeal
 id tvGreeting
 id tvLocation
 id tvLoginMover
-id tvLoginWithFacebook
 id tvProfileTitle
 id tvRegisterMover
 id tvSignout
