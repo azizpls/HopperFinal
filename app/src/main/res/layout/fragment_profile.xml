@@ -22,7 +22,9 @@
         android:id="@+id/tvContact"
         android:layout_width="0dp"
         android:layout_height="70dp"
-        android:text="   Conacts Us"
+        android:text="   Contact Us"
+        android:clickable="true"
+
         android:textAlignment="viewStart"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -37,6 +39,7 @@
         android:text="   Sign Out"
         android:textAlignment="viewStart"
         android:textSize="24sp"
+        android:clickable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

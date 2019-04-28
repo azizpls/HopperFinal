@@ -1,17 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b8ae8910ad639193b9f127467e663335\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:10:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\9e8c05d116e54f4e89c71d0ed4739fa4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\390f93eb1bcb6112602e5b14c5bf376a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b3ac9363ca82d6db6299514d1af829c9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b9af172947c108a3efe48e950d2e0104\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\754b5aa28d32d7c0896e42d0ed948f14\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\197b70126f0bd8635a9cc444c7a8de64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6491aa172a8a70742c6e3355f829a23b\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a83e700632062f65184d2b63f5093834\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dc27277e878f4bf5776134d1ee178dc0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\924e6bec2261ad7fbec8c270701e8e12\AndroidManifest.xml:17:1-22:12
@@ -20,21 +28,23 @@ MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Jovon\.gradl
 MERGED from [com.android.support:customview:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\f3a3294a3e314f121685911f2cd683be\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\72fa4addb786e88d55e6fa62064f7b2a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fbd723e9b27169cf87e84c3f2b53943a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cdaf1b42bc63180961d109e0977dca83\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bbe18ccacba46d7e64f2dd339278e278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ecb17dda9919cd37f0f05461386aad1e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dff46517e245e4b81a47042302fabd1d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7685f55df9257bf437f249f6fe412dc4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\913a5a6e806dfd83fb59dab90b391fd1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\603611b3dce7a355052eb0a6b622486a\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\58e9410fb830c0c1bdd99ea1f625216f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cabff52a45f5b28c4823939f328fb10f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bb0f5a063c3cb04de5061c922ae2386e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dd3051b7c751080bf90d667e3b898fa6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
@@ -53,20 +63,38 @@ uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:19:5-67
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:20:5-79
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:23:5-79
 	android:name
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:8:5-35:19
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:9:5-20
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:22:5-20
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cdaf1b42bc63180961d109e0977dca83\AndroidManifest.xml:22:5-23:19
@@ -92,53 +120,69 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gra
 	android:name
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:10:9-41
 activity#com.example.hopper.RegisterActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:9-28:20
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:9-63
 	android:name
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:19-51
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:23:13-27:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:17-69
-	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:26:17-77
-	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.example.hopper.MainActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:9-59
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:9-59
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:19-47
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:19-47
 activity#com.example.hopper.LoginActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:30:9-60
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:30:19-48
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:23:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:27:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:9-34:57
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:31:9-33:57
 	android:resource
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:34:13-54
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:33:13-54
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:33:13-43
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:13-43
 uses-sdk
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b8ae8910ad639193b9f127467e663335\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b8ae8910ad639193b9f127467e663335\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:15:5-17:41
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:15:5-17:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\9e8c05d116e54f4e89c71d0ed4739fa4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\9e8c05d116e54f4e89c71d0ed4739fa4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\390f93eb1bcb6112602e5b14c5bf376a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\390f93eb1bcb6112602e5b14c5bf376a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b3ac9363ca82d6db6299514d1af829c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b3ac9363ca82d6db6299514d1af829c9\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b9af172947c108a3efe48e950d2e0104\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b9af172947c108a3efe48e950d2e0104\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\754b5aa28d32d7c0896e42d0ed948f14\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\754b5aa28d32d7c0896e42d0ed948f14\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\197b70126f0bd8635a9cc444c7a8de64\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\197b70126f0bd8635a9cc444c7a8de64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6491aa172a8a70742c6e3355f829a23b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6491aa172a8a70742c6e3355f829a23b\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a83e700632062f65184d2b63f5093834\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a83e700632062f65184d2b63f5093834\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dc27277e878f4bf5776134d1ee178dc0\AndroidManifest.xml:20:5-44
@@ -155,12 +199,16 @@ MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jovon\.grad
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\72fa4addb786e88d55e6fa62064f7b2a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fbd723e9b27169cf87e84c3f2b53943a\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fbd723e9b27169cf87e84c3f2b53943a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cdaf1b42bc63180961d109e0977dca83\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cdaf1b42bc63180961d109e0977dca83\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bbe18ccacba46d7e64f2dd339278e278\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bbe18ccacba46d7e64f2dd339278e278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ecb17dda9919cd37f0f05461386aad1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ecb17dda9919cd37f0f05461386aad1e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dff46517e245e4b81a47042302fabd1d\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dff46517e245e4b81a47042302fabd1d\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7685f55df9257bf437f249f6fe412dc4\AndroidManifest.xml:20:5-44
@@ -171,16 +219,18 @@ MERGED from [com.android.support:print:28.0.0] C:\Users\Jovon\.gradle\caches\tra
 MERGED from [com.android.support:print:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\603611b3dce7a355052eb0a6b622486a\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\58e9410fb830c0c1bdd99ea1f625216f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\58e9410fb830c0c1bdd99ea1f625216f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cabff52a45f5b28c4823939f328fb10f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cabff52a45f5b28c4823939f328fb10f\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bb0f5a063c3cb04de5061c922ae2386e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bb0f5a063c3cb04de5061c922ae2386e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dd3051b7c751080bf90d667e3b898fa6\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dd3051b7c751080bf90d667e3b898fa6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\602afe6dad9c77682b37d6fea36c042f\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
@@ -189,3 +239,37 @@ INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidMan
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\ed472e82ebc8e2265ed9758edaa61ff8\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:27:13-51
