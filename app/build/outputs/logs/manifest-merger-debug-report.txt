@@ -1,15 +1,17 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\b8ae8910ad639193b9f127467e663335\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:10:1-24:12
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\aa1a911e47b0550a823f11a3a9cf5fb1\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7f0f7bc070e022e790c1580c1fde9b13\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bacff6e56215cbb6cbe2c923a535149f\AndroidManifest.xml:17:1-31:12
@@ -42,20 +44,20 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Jovon\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\cabff52a45f5b28c4823939f328fb10f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bb0f5a063c3cb04de5061c922ae2386e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\dd3051b7c751080bf90d667e3b898fa6\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
-INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:17:9-34
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:19:9-34
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:16:9-32
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:18:9-32
 		INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:2:11-69
@@ -75,8 +77,16 @@ MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.g
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:23:5-79
 	android:name
 		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:8:5-35:19
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:10:5-37:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\31b011a241d29b8de85faa6b6a27434b\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\bede49704ebdcf9844c01dedd732de60\AndroidManifest.xml:9:5-20
@@ -85,8 +95,12 @@ MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\aa1a911e47b0550a823f11a3a9cf5fb1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\aa1a911e47b0550a823f11a3a9cf5fb1\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7f0f7bc070e022e790c1580c1fde9b13\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7f0f7bc070e022e790c1580c1fde9b13\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:22:5-26:19
@@ -102,65 +116,65 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Jovon\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\6f3f287cfa154f2aef53911cff5c3e65\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:14:9-41
 	android:versionName
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:17:9-34
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:19:9-34
 	android:versionCode
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:16:9-32
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:18:9-32
 	android:roundIcon
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:15:9-40
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:17:9-40
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:11:9-41
 activity#com.example.hopper.RegisterActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:18:9-54
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:20:9-54
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:18:19-51
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:20:19-51
 activity#com.example.hopper.MainActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:19:9-50
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:9-50
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:19-47
 activity#com.example.hopper.LoginActivity
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:20:9-26:20
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:20:19-48
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:26:27-74
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:27:9-122
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:9-122
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:27:66-119
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:66-119
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:27:20-65
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:20-65
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:9-30:59
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:9-116
 	android:value
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:70-113
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:29:20-69
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:20-69
 meta-data#preloaded_fonts
-ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:32:9-34:57
+ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:34:9-36:57
 	android:resource
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:34:13-54
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:36:13-54
 	android:name
-		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:33:13-43
+		ADDED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml:35:13-43
 uses-sdk
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\AndroidManifest.xml
@@ -175,8 +189,12 @@ MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.18.5] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\fabfc0c0310a5f80174f4e05b45f904e\AndroidManifest.xml:15:5-17:41
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\c0f449edf48cbe309c6d1668472b141a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\aa1a911e47b0550a823f11a3a9cf5fb1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\aa1a911e47b0550a823f11a3a9cf5fb1\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\a5d8eddd8b63ad73d5a7e14889770b05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7f0f7bc070e022e790c1580c1fde9b13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\7f0f7bc070e022e790c1580c1fde9b13\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\caa7229cea4e309f80d962f481ceaecb\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Jovon\.gradle\caches\transforms-2\files-2.1\0aa749abafd16c456c1fd7e2e49a925a\AndroidManifest.xml:20:5-44

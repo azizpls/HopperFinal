@@ -1227,7 +1227,7 @@ id line1
 id line3
 id listMode
 id list_item
-id mapView
+id map
 id masked
 id media_actions
 id message

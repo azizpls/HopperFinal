@@ -5030,7 +5030,7 @@ public final class R {
     public static final int line3=0x7f0a0075;
     public static final int listMode=0x7f0a0076;
     public static final int list_item=0x7f0a0077;
-    public static final int mapView=0x7f0a0078;
+    public static final int map=0x7f0a0078;
     public static final int masked=0x7f0a0079;
     public static final int media_actions=0x7f0a007a;
     public static final int message=0x7f0a007b;
