@@ -125,7 +125,7 @@ public class MapFragment extends Fragment {
                         return;
                     }
                     mMap.setMyLocationEnabled(true);
-                    //Add map UI settings using mMap.getUiSettings(). 
+                    //Add map UI settings using mMap.getUiSettings().
 
                 }
             }
