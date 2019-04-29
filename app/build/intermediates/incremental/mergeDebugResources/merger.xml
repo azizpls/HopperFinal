@@ -3717,7 +3717,7 @@
     </string-array></file><file path="C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\res\values\preloaded_fonts.xml" qualifiers=""><array name="preloaded_fonts" translatable="false">
         <item>@font/raleway_semibold</item>
         <item>@font/roboto</item>
-    </array></file><file path="C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Hopper</string></file><file path="C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </array></file><file path="C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Hopper</string><string name="google_maps_api_key">AIzaSyAC4WiabeRO_Fm0E_iPT1iKZN0SiVLkn3I</string></file><file path="C:\Users\Jovon\StudioProjects\Hopper_jovon\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>

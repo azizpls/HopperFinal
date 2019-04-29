@@ -1,5 +1,6 @@
 package com.example.hopper;
 
+import android.content.Intent;
 import android.support.annotation.ColorRes;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
@@ -50,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.action_profile:
                         default:
                             //TODO: swap fragment here
+
                             fragment = new ProfileFragment();
                             Toast.makeText(MainActivity.this, "Profile!", Toast.LENGTH_SHORT).show();
                             break;
@@ -60,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-
 
 
 
