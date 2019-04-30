@@ -1,24 +1,18 @@
 package com.example.hopper;
 
 import android.app.Dialog;
-import android.content.Intent;
-import android.nfc.Tag;
-import android.support.annotation.ColorRes;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BottomNavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
-import android.widget.TabHost;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.hopper.fragments.MapFragment;
-import com.example.hopper.fragments.PostFragment;
+import com.example.hopper.fragments.PostsFragment;
 import com.example.hopper.fragments.ProfileFragment;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
@@ -56,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                 switch (menuItem.getItemId()) {
                     case R.id.action_home:
                         //TODO: swap fragment here
-                        fragment = new PostFragment();
+                        fragment = new PostsFragment();
                         break;
                     case R.id.action_map:
                         //TODO: swap fragment here

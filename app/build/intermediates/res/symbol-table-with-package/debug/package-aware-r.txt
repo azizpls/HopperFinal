@@ -1257,6 +1257,7 @@ id radio
 id right
 id right_icon
 id right_side
+id rvFeed
 id satellite
 id save_image_matrix
 id save_non_transition_alpha
@@ -1301,6 +1302,7 @@ id status_bar_latest_event_content
 id stretch
 id submenuarrow
 id submit_area
+id swipeContainer
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1330,7 +1332,6 @@ id transition_scene_layoutid_cache
 id transition_transform
 id tvBName
 id tvContact
-id tvCountdownPlaceholder
 id tvCreateAccount
 id tvDeal
 id tvGreeting
@@ -1414,6 +1415,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_feed
 layout fragment_map
 layout fragment_post
 layout fragment_profile

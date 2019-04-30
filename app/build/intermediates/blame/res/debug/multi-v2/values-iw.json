@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jovon\\StudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "C:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jovon\\.gradle\\caches\\transforms-2\\files-2.1\\b8ae8910ad639193b9f127467e663335\\res\\values-iw\\values-iw.xml",

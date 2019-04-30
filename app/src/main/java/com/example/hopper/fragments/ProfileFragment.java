@@ -43,7 +43,7 @@ public class ProfileFragment extends Fragment {
         tvContactUs = view.findViewById(R.id.tvContact);
         tvSignout = view.findViewById(R.id.tvSignout);
 
-/*        tvSignout.setOnClickListener(new View.OnClickListener() {
+        tvSignout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 ParseUser.logOut();
@@ -52,7 +52,7 @@ public class ProfileFragment extends Fragment {
             }
         });
 
-        */
+
 
     }
 

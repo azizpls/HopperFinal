@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jovon\\StudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jovon\\.gradle\\caches\\transforms-2\\files-2.1\\a5d8eddd8b63ad73d5a7e14889770b05\\res\\values-ms\\values.xml",

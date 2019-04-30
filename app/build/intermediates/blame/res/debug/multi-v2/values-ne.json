@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jovon\\StudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "C:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jovon\\.gradle\\caches\\transforms-2\\files-2.1\\0aa749abafd16c456c1fd7e2e49a925a\\res\\values-ne\\values.xml",
