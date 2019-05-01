@@ -113,7 +113,7 @@ public class MapFragment extends Fragment {
         mapFragment.getMapAsync(new OnMapReadyCallback() {
             @Override
             public void onMapReady(GoogleMap googleMap) {
-                Toast.makeText(getActivity(), "Map is Ready", Toast.LENGTH_SHORT).show();
+//                Toast.makeText(getActivity(), "Map is Ready", Toast.LENGTH_SHORT).show();
                 Log.d(TAG, "onMapReady: map is ready");
                 mMap = googleMap;
                 if (mLocationPermissionsGranted) {
