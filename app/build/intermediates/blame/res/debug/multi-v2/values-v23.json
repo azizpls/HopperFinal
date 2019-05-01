@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jovon\\AndroidStudioProjects\\Hopper_jovon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "/Users/andrewaziz/Documents/development/projects/HopperFinal/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jovon\\.gradle\\caches\\transforms-2\\files-2.1\\b8ae8910ad639193b9f127467e663335\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/andrewaziz/.gradle/caches/transforms-2/files-2.1/0ca60434f40a09bfac8b784127497085/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jovon\\.gradle\\caches\\transforms-2\\files-2.1\\ecb17dda9919cd37f0f05461386aad1e\\res\\values-v23\\values-v23.xml",
+                    "source": "/Users/andrewaziz/.gradle/caches/transforms-2/files-2.1/2cd1abe43b2fadb3ef01507ea83a1083/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

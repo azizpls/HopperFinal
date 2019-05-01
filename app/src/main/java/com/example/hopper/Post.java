@@ -8,6 +8,8 @@ import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseUser;
 
+import java.util.Date;
+
 
 @ParseClassName("Post")
 public class Post extends ParseObject {
@@ -15,7 +17,7 @@ public class Post extends ParseObject {
 
     // creating keys for different desired parse attributes
     public static final String KEY_DETAILS = "Details";
-    public static final String START_TIME = "Start";
+    public static final String END_TIME = "Date";
     public static final String KEY_IMAGE = "Image";
     public static final String KEY_BUSINESS_NAME = "BusinessName";
     //    public static final String KEY_CREATED_AT = "createdAt";
@@ -29,6 +31,11 @@ public class Post extends ParseObject {
     public String getDescription() {
         return getString(KEY_DETAILS);
     }
+    public Date getEndDate() {
+
+        return getDate(END_TIME);
+    }
+
 
     public void setDescription(String description) {
         put(KEY_DETAILS, description);
