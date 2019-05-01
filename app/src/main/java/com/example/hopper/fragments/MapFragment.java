@@ -6,6 +6,7 @@ import android.content.pm.PackageManager;
 import android.location.Location;
 import android.nfc.Tag;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.support.annotation.LongDef;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -17,6 +18,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -29,8 +31,35 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
+import com.parse.Parse;
+import com.parse.ParseClassName;
+import com.parse.ParseFile;
+import com.parse.ParseGeoPoint;
+import com.parse.ParseObject;
+import com.parse.ParseUser;
+
+@ParseClassName("Post")
+class Post extends ParseObject {
+
+
+    // creating keys for different desired parse attributes
+    public static final String KEY_location = "location";
+    public static final String KEY_BUSINESS_NAME = "BusinessName";
+
+
+
+
+    // set and get methods for desired attribute
+    public ParseGeoPoint getlocation() {
+        return getParseGeoPoint(KEY_location);
+    }
+    public String getBusinessName(){
+        return getString(KEY_BUSINESS_NAME);
+    }
+}
 
 
 public class MapFragment extends Fragment {
@@ -113,11 +142,48 @@ public class MapFragment extends Fragment {
         mapFragment.getMapAsync(new OnMapReadyCallback() {
             @Override
             public void onMapReady(GoogleMap googleMap) {
-//                Toast.makeText(getActivity(), "Map is Ready", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getActivity(), "Map is Ready", Toast.LENGTH_SHORT).show();
                 Log.d(TAG, "onMapReady: map is ready");
                 mMap = googleMap;
                 if (mLocationPermissionsGranted) {
+
+                    LatLng Tallahassee = new LatLng(30.4383, -84.2807);
+                    mMap.moveCamera(CameraUpdateFactory.newLatLng(Tallahassee));
+
+                    LatLng Wilbury = new LatLng(30.435281, -84.288922);
+                    mMap.addMarker(new MarkerOptions().position(Wilbury).title("The Wilbury"));
+
+                    LatLng WarHorse = new LatLng(30.435282, -84.29061);
+                    mMap.addMarker(new MarkerOptions().position(WarHorse).title("War Horse Whiskey Bar"));
+
+                    LatLng GrasslandsBrewing = new LatLng(30.435191, -84.290737);
+                    mMap.addMarker(new MarkerOptions().position(GrasslandsBrewing).title("Grasslands Brewing Company"));
+
+                    LatLng ProofBrewing = new LatLng(30.430958, -84.281308);
+                    mMap.addMarker(new MarkerOptions().position(ProofBrewing).title("Proof Brewing Company"));
+
+                    LatLng BrassTap = new LatLng(30.435408, -84.292916);
+                    mMap.addMarker(new MarkerOptions().position(BrassTap).title("The Brass Tap"));
+
+                    LatLng MadisonSocial = new LatLng(30.436434, -84.29782);
+                    mMap.addMarker(new MarkerOptions().position(MadisonSocial).title("Madison Social"));
+
+                    LatLng Township = new LatLng(30.437005, -84.297991);
+                    mMap.addMarker(new MarkerOptions().position(Township).title("Township"));
+
+                    LatLng Liberty = new LatLng(30.456865, -84.280462);
+                    mMap.addMarker(new MarkerOptions().position(Liberty).title("Liberty Bar"));
+
+                    LatLng Palace = new LatLng(30.434069, -84.303992);
+                    mMap.addMarker(new MarkerOptions().position(Palace).title("The Palace"));
+
+                    LatLng PoorPaul = new LatLng(30.446927, -84.326123);
+                    mMap.addMarker(new MarkerOptions().position(PoorPaul).title("Poor Paul's"));
+
                     getDeviceLocation();
+
+                    updateLocationUI();
+
 
                     if (ActivityCompat.checkSelfPermission(getContext(), Manifest.permission.ACCESS_FINE_LOCATION)
                             != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(getContext(),
@@ -131,6 +197,25 @@ public class MapFragment extends Fragment {
             }
         });
 
+    }
+
+    private void updateLocationUI() {
+        if (mMap == null) {
+            return;
+        }
+        try {
+            if (mLocationPermissionsGranted) {
+                mMap.setMyLocationEnabled(true);
+                mMap.getUiSettings().setMyLocationButtonEnabled(true);
+            } else {
+                mMap.setMyLocationEnabled(false);
+                mMap.getUiSettings().setMyLocationButtonEnabled(false);
+                //mLastKnownLocation = null;
+                getLocationPermission();
+            }
+        } catch (SecurityException e)  {
+            Log.e("Exception: %s", e.getMessage());
+        }
     }
 
     private void getLocationPermission(){
@@ -171,6 +256,9 @@ public class MapFragment extends Fragment {
 
                 }
             }
+
         }
+
     }
+
 }
